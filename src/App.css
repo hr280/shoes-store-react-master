@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+
+body {
+  margin: 0;
+  /* background-color: rgb(252, 252, 252); */
+}
+
+* {
+  font-family: "Ubuntu", sans-serif;
+}
+
+@media screen and (min-width: 480px) {
+  .cartRoot {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 500px) {
+  .imgLoad {
+    height: 300px;
+  }
+  .imgLoad {
+    height: 300px;
+  }
+}
+@media screen and (min-width: 500px) {
+  .imgLoad {
+    height: 340px;
+  }
+  .imgLoadP {
+    height: 300px;
+  }
+}
+@media screen and (min-width: 600px) {
+  .imgLoadP {
+    height: 150px;
+  }
+}
+@media screen and (min-width: 700px) {
+  .imgLoadP {
+    height: 180px;
+  }
+}
+@media screen and (min-width: 800px) {
+  .imgLoadP {
+    height: 200px;
+  }
+}
+@media screen and (min-width: 900px) {
+  .imgLoadP {
+    height: 220px;
+  }
+}
+@media screen and (min-width: 960px) {
+  .imgLoadP {
+    height: 180px;
+  }
+}
+@media screen and (min-width: 1180px) {
+  .imgLoadP {
+    height: 230px;
+  }
+}
+@media screen and (min-width: 1400px) {
+  .imgLoadP {
+    height: 270px;
+  }
+}
+@media screen and (min-width: 1600px) {
+  .imgLoadP {
+    height: 350px;
+  }
+}
+@media screen and (min-width: 900px) {
+  .cartRoot {
+    width: 50%;
+    margin: auto;
+  }
+  .imgLoad {
+    height: 400px;
+  }
+}
